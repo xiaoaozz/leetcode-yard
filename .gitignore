@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+dist/
+
+# VitePress
+.vitepress/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Solutions - generated placeholder files
+# (keep language directories but ignore empty files)

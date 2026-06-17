@@ -1,0 +1,132 @@
+# Tag definitions for LeetCode Top150
+
+tags:
+  array:
+    name: Array
+    description: 数组相关题目，包括遍历、排序、双指针、滑动窗口等
+    color: "#22c55e"
+
+  hash-table:
+    name: Hash Table
+    description: 哈希表相关题目，包括映射、去重、计数等
+    color: "#3b82f6"
+
+  two-pointers:
+    name: Two Pointers
+    description: 双指针技巧，包括对撞指针、快慢指针等
+    color: "#f59e0b"
+
+  string:
+    name: String
+    description: 字符串处理，包括匹配、反转、变换等
+    color: "#8b5cf6"
+
+  stack:
+    name: Stack
+    description: 栈的应用，包括括号匹配、单调栈等
+    color: "#ec4899"
+
+  queue:
+    name: Queue
+    description: 队列应用，包括 BFS、单调队列等
+    color: "#06b6d4"
+
+  linked-list:
+    name: Linked List
+    description: 链表操作，包括反转、合并、环检测等
+    color: "#f97316"
+
+  tree:
+    name: Tree
+    description: 二叉树及相关操作，包括遍历、构造、DFS/BFS
+    color: "#10b981"
+
+  dfs:
+    name: DFS
+    description: 深度优先搜索，包括回溯、递归遍历
+    color: "#6366f1"
+
+  bfs:
+    name: BFS
+    description: 广度优先搜索，包括层序遍历、最短路径
+    color: "#14b8a6"
+
+  graph:
+    name: Graph
+    description: 图论相关，包括拓扑排序、最小生成树等
+    color: "#a855f7"
+
+  heap:
+    name: Heap
+    description: 堆/优先队列，包括 Top-K、排序等
+    color: "#ef4444"
+
+  greedy:
+    name: Greedy
+    description: 贪心算法
+    color: "#84cc16"
+
+  dp:
+    name: Dynamic Programming
+    description: 动态规划，包括状态转移、优化等
+    color: "#f43f5e"
+
+  backtracking:
+    name: Backtracking
+    description: 回溯算法，包括排列组合、子集等
+    color: "#0ea5e9"
+
+  binary-search:
+    name: Binary Search
+    description: 二分查找及其变体
+    color: "#d946ef"
+
+  sorting:
+    name: Sorting
+    description: 排序算法相关
+    color: "#fb923c"
+
+  recursion:
+    name: Recursion
+    description: 递归与分治
+    color: "#2dd4bf"
+
+  design:
+    name: Design
+    description: 系统设计，包括缓存、数据结构设计等
+    color: "#c084fc"
+
+  trie:
+    name: Trie
+    description: 前缀树（字典树）
+    color: "#4ade80"
+
+  prefix-sum:
+    name: Prefix Sum
+    description: 前缀和与差分
+    color: "#38bdf8"
+
+  sliding-window:
+    name: Sliding Window
+    description: 滑动窗口技巧
+    color: "#a78bfa"
+
+  math:
+    name: Math
+    description: 数学相关题目
+    color: "#fbbf24"
+
+  union-find:
+    name: Union Find
+    description: 并查集
+    color: "#fb7185"
+
+  quickselect:
+    name: Quickselect
+    description: 快速选择算法
+    color: "#22d3ee"
+
+  topological-sort:
+    name: Topological Sort
+    description: 拓扑排序
+    color: "#c026d3"

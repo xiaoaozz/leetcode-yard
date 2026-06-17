@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-top150",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LeetCode Top 150 多语言题解 — 标签驱动，自动生成",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "gen:tags": "python scripts/generate_tags.py",
+    "gen:progress": "python scripts/generate_progress.py",
+    "gen:sidebar": "python scripts/generate_sidebar.py",
+    "gen:all": "python scripts/generate_tags.py && python scripts/generate_progress.py && python scripts/generate_sidebar.py",
+    "check": "python scripts/sync_problem_stats.py --check-missing"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.0"
+  }
+}

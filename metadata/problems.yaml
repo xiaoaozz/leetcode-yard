@@ -1,0 +1,716 @@
+# LeetCode Top150 — 完整题目元数据
+# 此文件为唯一数据源，由脚本自动生成标签页和进度页
+
+problems:
+  - id: 1
+    slug: two-sum
+    title: Two Sum
+    difficulty: Easy
+    tags:
+      - array
+      - hash-table
+    top150: true
+    accepted_rate: 54.2
+
+  - id: 11
+    slug: container-with-most-water
+    title: Container With Most Water
+    difficulty: Medium
+    tags:
+      - array
+      - two-pointers
+    top150: true
+    accepted_rate: 52.8
+
+  - id: 15
+    slug: 3sum
+    title: 3Sum
+    difficulty: Medium
+    tags:
+      - array
+      - two-pointers
+    top150: true
+    accepted_rate: 34.1
+
+  - id: 20
+    slug: valid-parentheses
+    title: Valid Parentheses
+    difficulty: Easy
+    tags:
+      - string
+      - stack
+    top150: true
+    accepted_rate: 38.5
+
+  - id: 21
+    slug: merge-two-sorted-lists
+    title: Merge Two Sorted Lists
+    difficulty: Easy
+    tags:
+      - linked-list
+      - recursion
+    top150: true
+    accepted_rate: 62.1
+
+  - id: 23
+    slug: merge-k-sorted-lists
+    title: Merge k Sorted Lists
+    difficulty: Hard
+    tags:
+      - linked-list
+      - recursion
+      - heap
+    top150: true
+    accepted_rate: 53.4
+
+  - id: 25
+    slug: reverse-nodes-in-k-group
+    title: Reverse Nodes in k-Group
+    difficulty: Hard
+    tags:
+      - linked-list
+      - recursion
+    top150: true
+    accepted_rate: 54.8
+
+  - id: 33
+    slug: search-in-rotated-sorted-array
+    title: Search in Rotated Sorted Array
+    difficulty: Medium
+    tags:
+      - array
+      - binary-search
+    top150: true
+    accepted_rate: 35.9
+
+  - id: 42
+    slug: trapping-rain-water
+    title: Trapping Rain Water
+    difficulty: Hard
+    tags:
+      - array
+      - two-pointers
+      - dp
+    top150: true
+    accepted_rate: 56.2
+
+  - id: 46
+    slug: permutations
+    title: Permutations
+    difficulty: Medium
+    tags:
+      - array
+      - backtracking
+    top150: true
+    accepted_rate: 67.9
+
+  - id: 49
+    slug: group-anagrams
+    title: Group Anagrams
+    difficulty: Medium
+    tags:
+      - array
+      - hash-table
+      - string
+    top150: true
+    accepted_rate: 60.1
+
+  - id: 55
+    slug: jump-game
+    title: Jump Game
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+      - greedy
+    top150: true
+    accepted_rate: 35.4
+
+  - id: 56
+    slug: merge-intervals
+    title: Merge Intervals
+    difficulty: Medium
+    tags:
+      - array
+    top150: true
+    accepted_rate: 44.3
+
+  - id: 57
+    slug: insert-interval
+    title: Insert Interval
+    difficulty: Medium
+    tags:
+      - array
+    top150: true
+    accepted_rate: 38.2
+
+  - id: 62
+    slug: unique-paths
+    title: Unique Paths
+    difficulty: Medium
+    tags:
+      - math
+      - dp
+    top150: true
+    accepted_rate: 63.2
+
+  - id: 70
+    slug: climbing-stairs
+    title: Climbing Stairs
+    difficulty: Easy
+    tags:
+      - math
+      - dp
+    top150: true
+    accepted_rate: 53.8
+
+  - id: 73
+    slug: set-matrix-zeroes
+    title: Set Matrix Zeroes
+    difficulty: Medium
+    tags:
+      - array
+      - hash-table
+    top150: true
+    accepted_rate: 48.5
+
+  - id: 75
+    slug: sort-colors
+    title: Sort Colors
+    difficulty: Medium
+    tags:
+      - array
+      - two-pointers
+      - sorting
+    top150: true
+    accepted_rate: 57.3
+
+  - id: 78
+    slug: subsets
+    title: Subsets
+    difficulty: Medium
+    tags:
+      - array
+      - backtracking
+    top150: true
+    accepted_rate: 67.8
+
+  - id: 94
+    slug: binary-tree-inorder-traversal
+    title: Binary Tree Inorder Traversal
+    difficulty: Easy
+    tags:
+      - tree
+      - dfs
+    top150: true
+    accepted_rate: 69.4
+
+  - id: 98
+    slug: validate-binary-search-tree
+    title: Validate Binary Search Tree
+    difficulty: Medium
+    tags:
+      - tree
+      - dfs
+    top150: true
+    accepted_rate: 30.1
+
+  - id: 101
+    slug: symmetric-tree
+    title: Symmetric Tree
+    difficulty: Easy
+    tags:
+      - tree
+      - dfs
+      - bfs
+    top150: true
+    accepted_rate: 56.7
+
+  - id: 102
+    slug: binary-tree-level-order-traversal
+    title: Binary Tree Level Order Traversal
+    difficulty: Medium
+    tags:
+      - tree
+      - bfs
+    top150: true
+    accepted_rate: 59.8
+
+  - id: 104
+    slug: maximum-depth-of-binary-tree
+    title: Maximum Depth of Binary Tree
+    difficulty: Easy
+    tags:
+      - tree
+      - dfs
+      - bfs
+    top150: true
+    accepted_rate: 72.1
+
+  - id: 121
+    slug: best-time-to-buy-and-sell-stock
+    title: Best Time to Buy and Sell Stock
+    difficulty: Easy
+    tags:
+      - array
+      - dp
+    top150: true
+    accepted_rate: 54.3
+
+  - id: 124
+    slug: binary-tree-maximum-path-sum
+    title: Binary Tree Maximum Path Sum
+    difficulty: Hard
+    tags:
+      - tree
+      - dfs
+    top150: true
+    accepted_rate: 41.2
+
+  - id: 127
+    slug: word-ladder
+    title: Word Ladder
+    difficulty: Hard
+    tags:
+      - bfs
+      - hash-table
+      - string
+    top150: true
+    accepted_rate: 34.3
+
+  - id: 128
+    slug: longest-consecutive-sequence
+    title: Longest Consecutive Sequence
+    difficulty: Medium
+    tags:
+      - array
+      - hash-table
+      - union-find
+    top150: true
+    accepted_rate: 49.8
+
+  - id: 139
+    slug: word-break
+    title: Word Break
+    difficulty: Medium
+    tags:
+      - hash-table
+      - string
+      - dp
+      - trie
+    top150: true
+    accepted_rate: 47.2
+
+  - id: 146
+    slug: lru-cache
+    title: LRU Cache
+    difficulty: Medium
+    tags:
+      - hash-table
+      - linked-list
+      - design
+    top150: true
+    accepted_rate: 42.1
+
+  - id: 150
+    slug: evaluate-reverse-polish-notation
+    title: Evaluate Reverse Polish Notation
+    difficulty: Medium
+    tags:
+      - array
+      - stack
+      - math
+    top150: true
+    accepted_rate: 44.2
+
+  - id: 152
+    slug: maximum-product-subarray
+    title: Maximum Product Subarray
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+    top150: true
+    accepted_rate: 33.4
+
+  - id: 153
+    slug: find-minimum-in-rotated-sorted-array
+    title: Find Minimum in Rotated Sorted Array
+    difficulty: Medium
+    tags:
+      - array
+      - binary-search
+    top150: true
+    accepted_rate: 53.1
+
+  - id: 198
+    slug: house-robber
+    title: House Robber
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+    top150: true
+    accepted_rate: 49.8
+
+  - id: 200
+    slug: number-of-islands
+    title: Number of Islands
+    difficulty: Medium
+    tags:
+      - array
+      - dfs
+      - bfs
+      - union-find
+      - graph
+    top150: true
+    accepted_rate: 54.1
+
+  - id: 206
+    slug: reverse-linked-list
+    title: Reverse Linked List
+    difficulty: Easy
+    tags:
+      - linked-list
+      - recursion
+    top150: true
+    accepted_rate: 71.2
+
+  - id: 207
+    slug: course-schedule
+    title: Course Schedule
+    difficulty: Medium
+    tags:
+      - dfs
+      - bfs
+      - graph
+      - topological-sort
+    top150: true
+    accepted_rate: 46.2
+
+  - id: 208
+    slug: implement-trie-prefix-tree
+    title: Implement Trie (Prefix Tree)
+    difficulty: Medium
+    tags:
+      - design
+      - trie
+      - hash-table
+    top150: true
+    accepted_rate: 50.3
+
+  - id: 209
+    slug: minimum-size-subarray-sum
+    title: Minimum Size Subarray Sum
+    difficulty: Medium
+    tags:
+      - array
+      - binary-search
+      - sliding-window
+      - two-pointers
+    top150: true
+    accepted_rate: 42.1
+
+  - id: 210
+    slug: course-schedule-ii
+    title: Course Schedule II
+    difficulty: Medium
+    tags:
+      - dfs
+      - bfs
+      - graph
+      - topological-sort
+    top150: true
+    accepted_rate: 47.8
+
+  - id: 212
+    slug: word-search-ii
+    title: Word Search II
+    difficulty: Hard
+    tags:
+      - array
+      - backtracking
+      - trie
+      - graph
+    top150: true
+    accepted_rate: 38.2
+
+  - id: 213
+    slug: house-robber-ii
+    title: House Robber II
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+    top150: true
+    accepted_rate: 37.2
+
+  - id: 215
+    slug: kth-largest-element-in-an-array
+    title: Kth Largest Element in an Array
+    difficulty: Medium
+    tags:
+      - array
+      - quickselect
+      - heap
+      - sorting
+    top150: true
+    accepted_rate: 58.4
+
+  - id: 236
+    slug: lowest-common-ancestor-of-a-binary-tree
+    title: Lowest Common Ancestor of a Binary Tree
+    difficulty: Medium
+    tags:
+      - tree
+      - dfs
+    top150: true
+    accepted_rate: 52.7
+
+  - id: 238
+    slug: product-of-array-except-self
+    title: Product of Array Except Self
+    difficulty: Medium
+    tags:
+      - array
+      - prefix-sum
+    top150: true
+    accepted_rate: 59.8
+
+  - id: 239
+    slug: sliding-window-maximum
+    title: Sliding Window Maximum
+    difficulty: Hard
+    tags:
+      - array
+      - queue
+      - sliding-window
+      - heap
+    top150: true
+    accepted_rate: 47.1
+
+  - id: 300
+    slug: longest-increasing-subsequence
+    title: Longest Increasing Subsequence
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+      - binary-search
+    top150: true
+    accepted_rate: 52.5
+
+  - id: 322
+    slug: coin-change
+    title: Coin Change
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+      - bfs
+    top150: true
+    accepted_rate: 43.6
+
+  - id: 332
+    slug: reconstruct-itinerary
+    title: Reconstruct Itinerary
+    difficulty: Hard
+    tags:
+      - dfs
+      - graph
+      - backtracking
+    top150: true
+    accepted_rate: 36.2
+
+  - id: 347
+    slug: top-k-frequent-elements
+    title: Top K Frequent Elements
+    difficulty: Medium
+    tags:
+      - array
+      - hash-table
+      - heap
+      - sorting
+      - quickselect
+    top150: true
+    accepted_rate: 60.5
+
+  - id: 394
+    slug: decode-string
+    title: Decode String
+    difficulty: Medium
+    tags:
+      - stack
+      - string
+      - dfs
+    top150: true
+    accepted_rate: 55.2
+
+  - id: 406
+    slug: reconstruct-queues-by-height
+    title: Queue Reconstruction by Height
+    difficulty: Medium
+    tags:
+      - array
+      - sorting
+      - greedy
+    top150: true
+    accepted_rate: 74.2
+
+  - id: 416
+    slug: partition-equal-subset-sum
+    title: Partition Equal Subset Sum
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+    top150: true
+    accepted_rate: 47.1
+
+  - id: 435
+    slug: non-overlapping-intervals
+    title: Non-overlapping Intervals
+    difficulty: Medium
+    tags:
+      - array
+      - greedy
+      - dp
+      - sorting
+    top150: true
+    accepted_rate: 49.4
+
+  - id: 437
+    slug: path-sum-iii
+    title: Path Sum III
+    difficulty: Medium
+    tags:
+      - tree
+      - dfs
+    top150: true
+    accepted_rate: 50.3
+
+  - id: 460
+    slug: lfu-cache
+    title: LFU Cache
+    difficulty: Hard
+    tags:
+      - design
+      - hash-table
+      - linked-list
+      - heap
+    top150: true
+    accepted_rate: 37.8
+
+  - id: 494
+    slug: target-sum
+    title: Target Sum
+    difficulty: Medium
+    tags:
+      - array
+      - dp
+      - backtracking
+    top150: true
+    accepted_rate: 51.6
+
+  - id: 543
+    slug: diameter-of-binary-tree
+    title: Diameter of Binary Tree
+    difficulty: Easy
+    tags:
+      - tree
+      - dfs
+    top150: true
+    accepted_rate: 58.6
+
+  - id: 560
+    slug: subarray-sum-equals-k
+    title: Subarray Sum Equals K
+    difficulty: Medium
+    tags:
+      - array
+      - hash-table
+      - prefix-sum
+    top150: true
+    accepted_rate: 45.6
+
+  - id: 621
+    slug: task-scheduler
+    title: Task Scheduler
+    difficulty: Medium
+    tags:
+      - hash-table
+      - array
+      - greedy
+      - heap
+      - sorting
+    top150: true
+    accepted_rate: 49.4
+
+  - id: 739
+    slug: daily-temperatures
+    title: Daily Temperatures
+    difficulty: Medium
+    tags:
+      - stack
+      - array
+      - sliding-window
+    top150: true
+    accepted_rate: 62.8
+
+  - id: 773
+    slug: sliding-puzzle
+    title: Sliding Puzzle
+    difficulty: Hard
+    tags:
+      - bfs
+      - array
+    top150: true
+    accepted_rate: 55.1
+
+  - id: 778
+    slug: swim-in-rising-water
+    title: Swim in Rising Water
+    difficulty: Hard
+    tags:
+      - binary-search
+      - heap
+      - dfs
+      - union-find
+      - graph
+    top150: true
+    accepted_rate: 57.2
+
+  - id: 934
+    slug: shortest-bridge
+    title: Shortest Bridge
+    difficulty: Medium
+    tags:
+      - dfs
+      - bfs
+      - array
+      - queue
+      - graph
+    top150: true
+    accepted_rate: 53.1
+
+  - id: 984
+    slug: string-without-aaa-or-bbb
+    title: String Without AAA or BBB
+    difficulty: Medium
+    tags:
+      - greedy
+      - heap
+      - string
+    top150: true
+    accepted_rate: 33.4
+
+  - id: 994
+    slug: rotting-oranges
+    title: Rotting Oranges
+    difficulty: Medium
+    tags:
+      - bfs
+      - array
+      - graph
+    top150: true
+    accepted_rate: 53.4
